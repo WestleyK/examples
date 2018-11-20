@@ -23,7 +23,7 @@ ____
 
 <br>
 
-### Here is how to download Arnold:
+### Downloading Arnold:
 
 Go [here](https://www.arnoldrenderer.com/arnold/try/) and download Arnold.<br>
 You will need to create an account.
