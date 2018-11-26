@@ -34,6 +34,8 @@ unless noted in the file themselves. See the LICENSE.md file for more informatio
    - [Julia](https://github.com/sylabs/examples/tree/master/lang/julia)
    - [RStudio](https://github.com/sylabs/examples/tree/master/lang/RStudio)
    - [Ruby](https://github.com/sylabs/examples/tree/master/lang/ruby)
+     - [rbenv](https://github.com/sylabs/examples/tree/master/lang/ruby/rbenv)
+     - [Ruby](https://github.com/sylabs/examples/tree/master/lang/ruby/ruby)
 
  - [Machine Learning](https://github.com/sylabs/examples/tree/master/machinelearning)
    - [Caffe](https://github.com/sylabs/examples/tree/master/machinelearning/caffe)
