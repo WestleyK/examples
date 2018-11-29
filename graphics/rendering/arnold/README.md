@@ -9,7 +9,7 @@
  - Singularity, which you can download and install from [here](https://github.com/sylabs/singularity).
  - A text editor, like: `micro`, `vim` or `nano`.
  - Root access (only for build and shell).
- - Arnold, which are provided [below](#here-is-how-to-download-arnold).
+ - Arnold, which are provided [below](#downloading-arnold).
 
 <br>
 
