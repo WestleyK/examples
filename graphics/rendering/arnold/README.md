@@ -48,7 +48,9 @@ $ cd ~/arnold/
 
 <br>
 
-### Then, we need to make the definition file:
+### Building the container:
+
+First, make the definition file:
 
 ```
 $ nano arnold.def
@@ -85,7 +87,7 @@ $ wget https://raw.githubusercontent.com/sylabs/examples/master/graphics/renderi
 
 <br>
 
-Next, to build the container:
+Next, build the container:
 
 ```
 $ sudo singularity build --sandbox arnold arnold.def
